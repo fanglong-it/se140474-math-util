@@ -10,6 +10,6 @@
 
 #### Connect me via
 [My Facebook](https://facebook.com/phuonglong2000) 
-[My email](mailto: cunphuonglong@gmail.com)
+[My email](mailto: Fang.Longpc@gmail.com)
 
 © 2021 Fanglong-it
