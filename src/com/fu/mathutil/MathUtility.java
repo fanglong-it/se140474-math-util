@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.fu;
+package com.fu.mathutil;
 
 /**
  *
@@ -27,11 +27,12 @@ public class MathUtility {
         if(n < 0 || n > 20)throw new IllegalArgumentException("Invalid argument.  N must be"
                 + " between 0..20"); 
         //CPU chạy đến đây, sure n từ 0..20
-        if(n == 0 || n == 1)
+        if( n == 0 || n == 1)
             return 1;
         
+        
         //CPU chạy đến đây sure n = 2..20
-        long result = 1; //cố tình heng
+        long result = 0; //cố tình heng
         
         for (int i = 2; i <= n; i++) 
             result *= i;

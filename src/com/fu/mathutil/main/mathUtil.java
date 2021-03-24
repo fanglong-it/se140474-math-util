@@ -1,6 +1,6 @@
-package math.util;
+package com.fu.mathutil.main;
 
-import com.fu.MathUtility;
+import com.fu.mathutil.MathUtility;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
