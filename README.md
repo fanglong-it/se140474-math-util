@@ -1,5 +1,7 @@
 ## Welcome to Math utility Repository. This repo offers various math methods used as a helper for your project.
 
+[![MathUtil project - | CI process included | © 2021 by Fang.longpc](https://github.com/fanglong-it/se140474-math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/fanglong-it/se140474-math-util/actions/workflows/mathutil-ci-actions.yml)
+
 ### *_You will find in this repo the following stuff:_*
 
 
