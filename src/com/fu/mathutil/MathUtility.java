@@ -30,14 +30,11 @@ public class MathUtility {
         if( n == 0 || n == 1)
             return 1;
         
+        return n * getFactorial(n-1); //xong đệ quy
+        //n! = n * (n - 1);
         
-        //CPU chạy đến đây sure n = 2..20
-        long result = 1; //cố tình heng
         
-        for (int i = 2; i <= n; i++) 
-            result *= i;
-        
-        return result;
+       
         
     }
     

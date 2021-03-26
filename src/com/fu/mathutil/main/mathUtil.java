@@ -29,7 +29,7 @@ public class mathUtil {
         n = 0; //tui mún tính 0!
         expected = 1; //hy vọng nhận về 1;
         actual = MathUtility.getFactorial(n);
-        System.out.println("5! : Expected: " + expected + ";"
+        System.out.println("0! : Expected: " + expected + ";"
                 + " Actual: " + actual);
 
 //        System.out.println("Hello to GitHub");
